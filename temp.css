@@ -1,0 +1,20 @@
+.body{
+    display: flex;
+    align-items: center;
+    justify-self: center;
+    height: 100vh;
+    background-color: #b784db ;
+}
+.envolope{
+    position: relative;
+    cursor: pointer;
+}
+.back{
+    position: relative;
+    width: 250px;
+    height: 200px;
+    background: #6247aa;
+}
+.front{
+    position: absolute;
+    border-right: ;
